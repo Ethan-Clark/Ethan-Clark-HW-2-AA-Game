@@ -1,2 +1,1 @@
-# Ethan Clark HW 2 AA Game
- 2 homework
+This was my second project in my Game Developent class. I made a game similar to the popular aa mobile game. 
